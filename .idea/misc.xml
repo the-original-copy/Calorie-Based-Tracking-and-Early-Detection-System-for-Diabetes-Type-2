@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_arrow_back_ios_24.xml" value="0.1635" />
+        <entry key="app/src/main/res/drawable/circular_border.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ripple_effect_border.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/shape_button_rounded.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_predict_diabetes_page.xml" value="0.33" />
         <entry key="app/src/main/res/layout/fragment_calorie_counter.xml" value="0.19375" />
         <entry key="app/src/main/res/layout/fragment_prediction.xml" value="0.19375" />
         <entry key="app/src/main/res/layout/fragment_settings.xml" value="0.19375" />
