@@ -13,3 +13,5 @@ inputs via the application.
 # Prediction Report Page
 ![image](https://github.com/the-original-copy/Calorie-Based-Tracking-and-Early-Detection-System-for-Diabetes-Type-2/assets/77143082/f33c35e1-ad09-4c62-835d-ecb19c410c80)
 
+# Logistic Regression Perfromance Metrics
+![Screenshot from 2023-11-23 22-08-05](https://github.com/the-original-copy/Calorie-Based-Tracking-and-Early-Detection-System-for-Diabetes-Type-2/assets/77143082/bb5d7c53-22cc-4f8f-aa68-0c4799a27798)
