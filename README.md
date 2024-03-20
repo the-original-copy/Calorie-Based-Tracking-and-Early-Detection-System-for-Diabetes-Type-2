@@ -1,4 +1,4 @@
-![image](https://github.com/the-original-copy/Calorie-Based-Tracking-and-Early-Detection-System-for-Diabetes-Type-2/assets/77143082/4e9eb508-6fd0-4345-8913-2430434504ca)# Calorie-Based-Tracking-and-Early-Detection-System-for-Diabetes-Type-2
+# Calorie-Based-Tracking-and-Early-Detection-System-for-Diabetes-Type-2
 
 It is an application developed using the Kotlin language which incorporated a  logistic regression machine learning
 model to calculate the risk of contracting diabetes based on the calorie values that the user
